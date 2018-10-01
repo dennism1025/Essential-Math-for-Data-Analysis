@@ -6,9 +6,9 @@ This repository contains the lab files and other resources for the free Microsof
 ## Data Set / Examples Terms of Usage and Disclaimer
 
 Throughout the course, you will use examples and data sets provided through Excel workbooks and PDFs. They are provided "as-is." Information and views expressed in the files, including URL and other Internet website references, may change without notice. You bear the risk of using it. Some examples are for illustration only and are fictitious. No real association is intended or inferred. Microsoft makes no warranties, express or implied, with respect to the information provided here.
-<br />
+<br /><br />
 These data sets/examples do not provide you with any legal rights to any intellectual property in any Microsoft product. You may copy and use these resources for your internal reference purposes only.
-<br /> 
+<br /><br />
 By clicking any of the links to download the files, you are agreeing to the terms above.
 
 ### Important
