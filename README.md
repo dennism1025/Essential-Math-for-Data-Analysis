@@ -10,7 +10,7 @@ Throughout the course, you will use examples and data sets provided through Exce
 These data sets/examples do not provide you with any legal rights to any intellectual property in any Microsoft product. You may copy and use these resources for your internal reference purposes only.
 <br /> 
 By clicking any of the links to download the files, you are agreeing to the terms above.
- 
+
 ### Important
- 
+
 All the data you need for this course is provided in this course. You do not need to look elsewhere for it. You are allowed to use the data in the context of this course, but not elsewhere.
