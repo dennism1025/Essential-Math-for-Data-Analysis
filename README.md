@@ -1,6 +1,6 @@
 # Essential-Math-For-Data-Analysis-Excel
 ![BENIMAGE](https://media.licdn.com/dms/image/C4D03AQFqzAfE3hVcZw/profile-displayphoto-shrink_100_100/0?e=1542844800&v=beta&t=MztrO_5ldeTUPyp8CST2i4eRKhIRtwvC2L_orU_m63c)
- 
+  
 This repository contains the lab files and other resources for the free Microsoft course Essential Math for Data Analysis with Excel Online. To learn how to analyze data at a basic level with Excel, [sign up for this course here](https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x).
  
 ## DataSet / Examples Terms of Usage and Disclaimer
